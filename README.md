@@ -7,6 +7,8 @@ My custom .config file for fastfetch
 
 ## Required Depedencies
 
-- Install  `imagemagick` - go to kitty an run: 
+- Install  `imagemagick`
+  - go to kitty an run: 
   `sudo pacman -S imagemagick`
+
 - Update Fastfetch `pacman -Syu fastfetch`
